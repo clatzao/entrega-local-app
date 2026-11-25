@@ -2,7 +2,7 @@
 
 **[⬇ Baixar o app (última versão)](https://github.com/clatzao/entrega-local-app/releases/latest/download/entrega-local.apk)**
 
-**[🌐 Abrir o site (versão de teste)](https://citation-surveillance-sat-phantom.trycloudflare.com)** — corridas em `/corrida`, painel da empresa em `/empresa`, entregador em `/entregador`, motorista em `/motorista`.
+**[🌐 Abrir o site (versão de teste)](https://audio-spending-visual-pricing.trycloudflare.com)** — corridas em `/corrida`, painel da empresa em `/empresa`, entregador em `/entregador`, motorista em `/motorista`.
 
 Na primeira instalação o Android pede para permitir a instalação pelo navegador. Depois disso, o próprio app avisa quando houver uma versão nova.
 
